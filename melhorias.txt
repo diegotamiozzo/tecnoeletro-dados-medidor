@@ -1,0 +1,8 @@
+Múltiplos viewers por dispositivo
+Hoje o form aceita apenas 2 e-mails. Melhorar a UI para adicionar/remover convidados dinamicamente (lista com botão "+"), sem limite fixo.
+
+Alertas e notificações por e-mail
+Detectar anomalias nos dados agregados
+tensão fora do padrão: tensão de linha com limite inferior a 8% e limite superior de 5%
+fator de potência baixo: FP inferior 0,92
+queda de frequência: estritamente entre 59,9 Hz e 60,1 Hz
